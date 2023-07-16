@@ -8,3 +8,9 @@ assignees: ''
 ---
 
 As a **role** I can **capability** so that **benefit**
+
+I know I am done when:
+
+- 
+- 
+-
