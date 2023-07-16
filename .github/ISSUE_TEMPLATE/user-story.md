@@ -9,8 +9,8 @@ assignees: ''
 
 As a **role** I can **capability** so that **benefit**
 
-I know I am done when:
+Acceptance Criteria:
 
-- 
-- 
--
+- acceptance criteria 1
+- acceptance criteria 2
+- acceptance criteria 3
